@@ -39,6 +39,7 @@ Company | Description | Areas hiring remote| Full remote / Regional remote | Sou
 | FoxIT |   |Some areas| Full remote / Remote EU | [Link!](https://www.fox-it.com/en/working-at-fox-it/vacancies-overview/) | [Link!](https://www.fox-it.com/nl/werken-bij-fox-it/vacatures/vacancy/threat-analyst-2/) |?|
 | Gitlab |   |All| Full remote | [Link!](https://about.gitlab.com/jobs/apply/) | [Link!](https://about.gitlab.com/jobs/apply/) |?|
 | Heroku |   |Some| Full remote | [Link!](https://www.heroku.com/careers/) | [Link!](https://www.heroku.com/careers/) |?|
+| Horizon3.ai (DoD SkillBridge Vetted) | Enabling organizations Find, Fix, and Verify exploitable weaknesses through Autonomous Penetration Testing |All| Full remote | At a job posting page, case by case | [Link!](https://www.horizon3.ai/join-our-team/) |?|
 | Human Rights Watch |   |Some| Full remote | [Link!](https://careers.hrw.org/) | [Link!](https://careers.hrw.org/) |?|
 | ImmersiveLabs |   |Some| Full remote | [Link!](https://twitter.com/KevTheHermit/status/1128290827833311232) | [Link!](https://www.immersivelabs.com/careers/) |?|
 | Inquest |   |Some| Full US remote okay | Job posting | [Link!](https://inquest.net/) |?|
